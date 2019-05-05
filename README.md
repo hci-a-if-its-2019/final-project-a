@@ -6,25 +6,25 @@
 05111640000049 Puguh Santosa Dwiatmaja
 ```
 
-## A. Contextual Inquiry and Analysis
-### Website Description
+# A. Contextual Inquiry and Analysis
+## Website Description
 
-### Instruction Script
+## Instruction Script
 
-### User Description
+## User Description
 
-### Transcript
+## Transcript
 
-### Models and Annotations
+## Models and Annotations
 
-#### Artifact Model
+### Artifact Model
 
-#### Flow Model
+### Flow Model
 
-#### Cultural Model
+### Cultural Model
 
-### Do's and Don't's
+## Do's and Don't's
 
-#### Do's
+### Do's
 
-#### Don't's
+### Don't's
