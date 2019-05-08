@@ -8,7 +8,8 @@
 
 # A. Contextual Inquiry and Analysis
 ## Website's Description
-papua.go.id is the official website of
+![1557305855327](https://user-images.githubusercontent.com/32842793/57363399-3ab81680-71ab-11e9-9cb3-fa7423c5f9be.jpg)
+[This website](https://papua.go.id/) is the official website of Papua Provincial Government. This website displays various information of the Papua Province like: latest news, hospital locations, profile of the province itself, and many more.
 
 ## Instruction Script
 ### Preliminary Interview Questions
