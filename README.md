@@ -51,8 +51,9 @@
 -
 
 ### [Participant 5](#participant-5-1)
-- 21 years old male
+- 20 years old male
 - ITS Student
+- Member of Barunastra ITS
 - Frequent internet user
 - Have ever using a government website
 
@@ -163,6 +164,40 @@
 ### Participant 4
 
 ### Participant 5
+(I: Interviewer, P: participant)
+```
+1. I: umurnya berapa?
+2. P: 20
+3. I: sering pake internet?
+4. P: yak
+5. I: biasanya buat apa?
+6. P: buat kehidupan
+7. I: pernah buka web pemerintahan?
+8. P: pernah, dinas transmigrasi yang paling sering
+9. I: terus, apa dengan membuka website tersebut, kebutuhanmu terjawab?
+10. P: iya terjawab
+11. I: sekarang langsung masuk ke instruksinya.
+12. I: coba cari profil gubernur papua
+13. P: ini dia, eh ini nih nih nih *menunjuk menu profil*
+14. P: atau ini. nah ini dia. *membuka profil gubernur papua*
+15. I: terus coba buka berita yang kategorinya "Pembangunan Daerah"
+16. P: *melakukan sesuatu* (ctrl+f mencari kata "berita", kemudian mencari kata "pembangunan")
+17. P: wah ini dia, pembangunan daerah *membuka kategori pembangunan daerah*
+18. I: terus balik ke halaman awal tadi
+19. P: *membuka menu beranda*
+20. I: terus cari detail informasi kargo
+21. P: mana ya? *mencari-cari*
+22. P: gak ada. biro perjalanan, kesehatan, bank, wisata, ...
+23. P: tidak tau. karena waktu sudah mepet, jadi skip saja
+24. I: cari berita bulan januari
+25. P: berita tadi dimana ya?
+26. P: ini ada berita terhangat nih? ini ada (berita bulan) mei. *membuka halaman berita selanjutnya*
+27. P: *memilih salah satu berita* nanti disini pasti ada nih *menunjuk posisi sidebar*
+28. I: oke, terus ini, minta feedback buat websitenya
+29. P: banyak yang sulit dicari seperti berita tadi, harusnya ada tempat berita disini.
+30. P: tulisannya gak terlalu jelas. terus kalo profil kepala daerah, itu tulisannya nyampur-nyampur dengan gambarnya.
+31. I: oke, cukup ya. terimakasih
+```
 
 ---
 
