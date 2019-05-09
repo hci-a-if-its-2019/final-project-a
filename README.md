@@ -325,7 +325,7 @@
 ![Flow Model - FP IMK-Flow Model](https://user-images.githubusercontent.com/32842793/57422260-9630e580-7239-11e9-9746-c3284b850f17.png)
 
 ### Cultural Model
-![Flow Model - Social Model](https://user-images.githubusercontent.com/34650403/57425865-317c8780-7247-11e9-8c7f-ef9eee5ea5cf.png)
+![Cultural Model](https://user-images.githubusercontent.com/34650403/57426403-40643980-7249-11e9-9c1c-e7b741f3a6a2.png)
 
 ---
 
@@ -335,6 +335,7 @@
 - Give stronger signifier to main functionality buttons/links
 - Give the date (more detail) so that the web viewer's are not confused by the news sequence
 - When giving title (especially the news), make it eye catching
+- Make sure that important features (ex. Search Feature) can work properly
 
 ### Don't's
  - Put Images over links
