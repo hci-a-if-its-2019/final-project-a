@@ -160,8 +160,114 @@
 ```
 
 ### Participant 3
+(I: Interviewer, P: participant)
+```
+1.	I : Selamat sore
+2.	P : Sore
+3.	I : Jadi tujuan dari wawancara ini adalah aku ingin kamu jadi partisipan untuk pengetesan web. Sebelumnya aku beritahu dulu, jadi di sini gak ada yang namanya salah, karena yang diuji itu webnya bukan partisipannya. Sebelumnya tanya dulu ini, umurnya berapa ya?
+4.	P : 19
+5.	I : Pekerjaannya apa?
+6.	P : Mahasiswa di ITS
+7.	I : Sering pakai internet gak?
+8.	P : Sering banget
+9.	I : Biasanya buat apa saja?
+10.	P : Buka sosmed, browser, dan youtube
+11.	I : Pernah gak kamu pakai web pemerintah?
+12.	P : Jarang sih, tapi pernah
+13.	I : Contohnya apa?
+14.	P : Contohnya website di madiun kota, buka destinasi wisata dll
+15.	I : Menurut kamu website peemerintah tu membantu gk?
+16.	P : Cukup, tapi kurang
+17.	I : Sebelumnya pernah buka web pemerintah papua gk?
+18.	P : Belum sama sekali
+19.	I : Coba kamu sekarang buka webnya
+20.	P : (Partisipan mencari di google dan menemukannya)
+21.	I : Bagaimana kesan pertamanya?
+22.	P : (Partisipan menjelaskan tentang warna huruf yang kurang kelihatan, cukup informatif dan menyarankan background jangan warna putih)
+23.	I : Sekarang coba kamu cari Profil Gubernur papua
+24.	P : Ga ada lho... oh ini....... kurang rapi ya ini
+25.	I : Selanjutnya kamu coba cari berita dengan kategori pembangunan daerah
+26.	P : (Mencari – cari, lalu menggunakan fitur ctrl + f) oh ini... gak kelihatan ya
+27.	I : Coba kamu klik salah satu berita yang kategorinya pembangunan daerah
+28.	P : (Partisipan berkomentar tentang judul berita yang seharusnya biasanya terdapat di atas gambar)
+29.	I : Coba kamu balik lagi ke halaman utama 
+30.	P : (Partisipan kembali ke halaman utama)
+31.	I : Selanjutnya coba cari detail informasi kargo
+32.	P : (Partisipan hanya mencarinya dengan mengecek satu persatu menu pada menu bar tapi belum ketemu. Akhirnya ia mencoba fitur search yang sebenarnya tak berfungsi) Gak ada
+33.	I : Mau clue? mungkin
+34.	P : Boleh 
+35.	I : mungkin belum keseluruhan dari halaman itu kamu eksplor
+36.	P : Oke oke
+37.	P : (Mencari cari lagi hingga diberi clue kedua “Mungkin sudah kamub lewati” )
+38.	P : (Mencari cari lagi)
+39.	P : Mungkin di sini... (akhirnyaa menemukan)
+40.	P : (Menyarankan agar fiturnya dimodifikasi dengan animasi submenu)
+41.	I : Lalu yang terakhir coba kamu cari berita dari Januari kemarin
+42.	P : Berita bulan Januari...
+43.	P : (Scrolling - scrolling page, lalu menekan salah satu berita dan akhirnya melihat menu berita berdasarkan bulan) Oh,,, baru di sini munculnya. Gak ada tanggalnya lho...
+44.	I : Menurut kamu overall bagaimana?
+45.	P : Banyak kurangnya, Cuma secara informasi sudah cukup. Cuma, kurang gampang di-klik lha.
+46.	I : Sudah cukup itu saja, makasih banyak atas waktunya ya
+
+```
 
 ### Participant 4
+(I: Interviewer, P: participant)
+```
+1.	I : Selamat siang. (Menjelaskan akan menunjukkan web untuk diuji partisipan dan tidak ada yang namanya salah karena yang diuji adalah webnya bukan sang partisipan) Jadi nanti akan saya tunjukkan webnya dan akan saya beri instruksi
+2.	P : Iya
+3.	I : Sebelumnya tanya dulu. Umurnya berapa ya?
+4.	P : Umur saya 20 tahun
+5.	I : Sering pakai internet gk?
+6.	P : Sering
+7.	I : Biasanya  buat apa saja?
+8.	P : Buat ngerjain tugas sama hiburan
+9.	I : Pekerjaannya apa ya?
+10.	P : Mahasiswa
+11.	I : Sebelumnya pernah pakai web pemerintah gak?
+12.	P : Dulu pernah daftar sbmptn
+13.	I : Selain itu mungkin?
+14.	P : Tidak ada
+15.	 I : KPU mungkin?
+16.	P : Oh iya KPU
+17.	I : Menurut kamu web seperti itu membantu tidak?
+18.	P : Seharusnya kebanyakan membantu. Karena kalau tidak ada web kan tidak ada transparansi data. Meskipun beberapa ada yang interfacenya kurang user friendly, yang seharusnya membantu tapi tidak meraih potensi tertingginya
+19.	I : Jadi istilahnya belum se-ekspektasi yang dikira ya?
+20.	P : Iya
+21.	I : Oke – oke. Pernah buka website pemerintah papua gak?
+22.	P : Enggak
+23.	I : Coba cari websitenya 
+24.	P : (Partisipan mencari di google dan memilih top search)
+25.	I : Sudah di-klik?
+26.	P : Sudah, internetnya lemot (Lalu webnya baru terbuka)
+27.	I : Menurut kamu kesan pertamanya apa?
+28.	P : Agak berantakan ya sebenarnya (Berkomentar tentang tulisan yang tidak kelihatan dan peletakan foto yang dirasa tidak sesuai serta welcome page yang kurang pas) Bawahnya bagus, Cuma bagian atasnya seakan – akan  berantakkan
+29.	I : Sekarang aku mau kamu coba cari profil gubernur Papua
+30.	P : Oke (tertawa ringan) Jelas sekali ya ini tabrakan 
+31.	I : Terus coba buka berita dengan kategori pembangunan daerah
+32.	P : Gak terlalu kelihatan
+33.	P : Nama kategorinya pembangunan daerah? .. Oh ya sudah
+34.	I : Jadi udh ketemu ya. Coba kamu klik salah satu
+35.	P : Oke, jadi ini tata letaknya sudah bagus ya tapi judulnya lebih baik di atas kali ya
+36.	I : Oke, sekarang coba kembali ke halaman utama
+37.	P : (Kembali ke halaman utama)
+38.	I : Coba kamu cari detail informasi kargo
+39.	P : (Partisipan mencari – cari pada menu bar. Tidak sengaja menekan ppid papua yang tidak bisa diakses. Lalu menggunakan fitur search dan menyadari setelahnya kalau tidak berfungsi. Lalu mencari2 lagi pada sub menu bar)
+40.	I : Apakah ingin diberikan petunjuk?
+41.	P : Oh.... bukan... iya boleh petunjuk
+42.	I : Mungkin gak semua informasi itu ada di menu bar ya.
+43.	P :  (Setelah scroll down akhirnya menemukan)
+44.	P : Oh...gak kepikiran bisa ada di bawah situ
+45.	I : Yang terakhir. Coba kamu cari berita yang ada di bulan Januari kemarin dan klik salah satunya
+46.	P : (Partisipan meng-klik salah satu berita. Lalu menyadari tidak ada tanggal yang tercantum di berita)
+47.	I : Coba kamu klik back
+48.	P : Partisipan (Klik back)
+49.	I : (Baru menyadari bahwa tanggal di headline menggunakan tanggal di masa depan)
+50.	I : Overall bagaimana?
+51.	P : (Menjelaskan kalau beberapa halaman dirasa kurang di-develop dengan baik dan peletakan menu – menu yang umum, dan mungkin menu di bawah bisa dimasukkan ke menu lain dan dropdownnya diperbaiki)
+52.	I : Makasih atas waktunya
+53.	P : Okee
+```
 
 ### Participant 5
 (I: Interviewer, P: participant)
