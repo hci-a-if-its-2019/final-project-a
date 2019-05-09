@@ -319,7 +319,7 @@
 ![artmod-1](https://user-images.githubusercontent.com/32842793/57422312-c4aec080-7239-11e9-93eb-683e9cc6204f.PNG)
 ![artmod-2](https://user-images.githubusercontent.com/32842793/57422324-ce382880-7239-11e9-820e-eeea49304531.PNG)
 ![artmod-3](https://user-images.githubusercontent.com/34650403/57425533-b23a8400-7245-11e9-8f26-0437ad63814e.png)
-![artmod-4](https://user-images.githubusercontent.com/34650403/57425677-5cb2a700-7246-11e9-9873-1532c82c9fb5.png)
+![artmod-4](https://user-images.githubusercontent.com/34650403/57426624-25de9000-724a-11e9-9963-34b5bd49c459.png)
 
 ### Flow Model
 ![Flow Model - FP IMK-Flow Model](https://user-images.githubusercontent.com/32842793/57422260-9630e580-7239-11e9-9746-c3284b850f17.png)
