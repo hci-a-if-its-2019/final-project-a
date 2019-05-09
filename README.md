@@ -214,5 +214,9 @@
 ## Do's and Don't's
 
 ### Do's
+- Give stronger signifier to main functionality buttons/links
+- 
 
 ### Don't's
+ - Put Images over links
+ - (but if so, don't) Make the color not contrast 
