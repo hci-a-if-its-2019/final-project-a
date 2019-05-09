@@ -333,7 +333,7 @@
 
 ### Do's
 - Give stronger signifier to main functionality buttons/links
-- 
+- Give the date (more detail) so that the web viewer's are not confused by the news sequence
 
 ### Don't's
  - Put Images over links
