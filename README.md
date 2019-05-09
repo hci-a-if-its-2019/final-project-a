@@ -66,7 +66,7 @@
 ---
 
 ## Transcript
-### Participant 1
+### [Participant 1](#participant-1)
 (I: Interviewer, P: participant)
 ```
 1. I: Terima kasih atas waktu yang diluangkan. Jadi ini akan dilakukan pengujian web, nanti akan diberi pertanyaan kemudian dilanjutkan dengan pemberian instruksi. Tidak perlu takut salah, karena ini hanya mencari kekurangan dari website nya. Oke langsung ke pertanyaan aja, usianya berapa?
@@ -102,7 +102,7 @@
 31. I: Okesip. Oke sekian uji web nya terimakasih atas partisipasinya.
 ```
 
-### Participant 2
+### [Participant 2](#participant-2)
 (I: Interviewer, P: participant)
 ```
 1. I: oke, jadi nanti ada pertanyaan sama instruksi. instruksi ini nanti kamu lakuin sesuai yg ku minta
@@ -165,7 +165,7 @@
 58. I: yaudah, itu aja sih. terimakasih atas partisipasinya.
 ```
 
-### Participant 3
+### [Participant 3](#participant-3)
 (I: Interviewer, P: participant)
 ```
 1.	I : Selamat sore
@@ -217,7 +217,7 @@
 
 ```
 
-### Participant 4
+### [Participant 4](#participant-4)
 (I: Interviewer, P: participant)
 ```
 1.	I : Selamat siang. (Menjelaskan akan menunjukkan web untuk diuji partisipan dan tidak ada yang namanya salah karena yang diuji adalah webnya bukan sang partisipan) Jadi nanti akan saya tunjukkan webnya dan akan saya beri instruksi
@@ -275,7 +275,7 @@
 53.	P : Okee
 ```
 
-### Participant 5
+### [Participant 5](#participant-5)
 (I: Interviewer, P: participant)
 ```
 1. I: umurnya berapa?
@@ -316,8 +316,11 @@
 ## Models and Annotations
 
 ### Artifact Model
+![artmod-1](https://user-images.githubusercontent.com/32842793/57422312-c4aec080-7239-11e9-93eb-683e9cc6204f.PNG)
+![artmod-2](https://user-images.githubusercontent.com/32842793/57422324-ce382880-7239-11e9-820e-eeea49304531.PNG)
 
 ### Flow Model
+![Flow Model - FP IMK-Flow Model](https://user-images.githubusercontent.com/32842793/57422260-9630e580-7239-11e9-9746-c3284b850f17.png)
 
 ### Cultural Model
 
@@ -331,4 +334,5 @@
 
 ### Don't's
  - Put Images over links
- - (but if so, don't) Make the color not contrast 
+ - (but if so, don't) Make the color not contrast
+ - Put signifier of a functionality that doesn't exist yet in the system
