@@ -6,6 +6,9 @@
 05111640000049 Puguh Santosa Dwiatmaja
 ```
 
+ - [Contextual Inquiry and Analysis](#a-contextual-inquiry-and-analysis)
+ - [Sketching & Prototyping](Sketching-and-prototyping.md)
+
 # A. Contextual Inquiry and Analysis
 ## Website's Description
 ![1557305855327](https://user-images.githubusercontent.com/32842793/57363399-3ab81680-71ab-11e9-9cb3-fa7423c5f9be.jpg)
