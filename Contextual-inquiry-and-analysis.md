@@ -1,3 +1,11 @@
+# Final Project - Tim A
+
+```
+05111640000030 Hafid Sriwijaya Bahrun
+05111640000032 Irman Kurniawan
+05111640000049 Puguh Santosa Dwiatmaja
+```
+
 # A. Contextual Inquiry and Analysis
 ## Website's Description
 ![1557305855327](https://user-images.githubusercontent.com/32842793/57363399-3ab81680-71ab-11e9-9cb3-fa7423c5f9be.jpg)
@@ -317,11 +325,11 @@
 ![artmod-7](https://user-images.githubusercontent.com/32842799/57427065-6dfeb200-724c-11e9-98ce-bcb66c05a5ec.png)
 
 ### Flow Model
-![Flow Model - FP IMK-Social Model #2](https://user-images.githubusercontent.com/32842793/58197816-3c2f2600-7cf7-11e9-8774-2d3f720296a2.png)
-
+![Flow Model - FP IMK-Flow Model](https://user-images.githubusercontent.com/32842793/57422260-9630e580-7239-11e9-9746-c3284b850f17.png)
 
 ### Cultural Model
-![Cultural Model](https://user-images.githubusercontent.com/34650403/57426403-40643980-7249-11e9-9c1c-e7b741f3a6a2.png)
+![Flow Model - FP IMK-Social Model #2](https://user-images.githubusercontent.com/32842793/58197816-3c2f2600-7cf7-11e9-8774-2d3f720296a2.png)
+
 
 ---
 
@@ -338,4 +346,4 @@
  - (but if so, don't) Make the color not contrast
  - Put signifier of a functionality that doesn't exist yet in the system
  
- [Next chapter](Sketching-and-prototyping.md)
+ [**Next: Sketching and Prototype**](Sketching-and-prototyping.md)
