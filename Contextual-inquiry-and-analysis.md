@@ -346,4 +346,4 @@
  - (but if so, don't) Make the color not contrast
  - Put signifier of a functionality that doesn't exist yet in the system
  
- [**Next: Sketching and Prototype**](Sketching-and-prototyping.md)
+ [**Next: Sketching and Prototyping**](Sketching-and-prototyping.md)
