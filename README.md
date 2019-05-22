@@ -8,4 +8,4 @@
 
  - [Contextual Inquiry and Analysis](Contextual-inquiry-and-analysis.md)
  - [Sketching & Prototyping](Sketching-and-prototyping.md)
- - [Usability Testing](Usability-testing.md)
+ - [Usability Evaluation and Prototyping](Usability-evaluation-and-prototyping.md)
