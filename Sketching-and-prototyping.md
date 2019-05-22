@@ -6,8 +6,7 @@
 05111640000049 Puguh Santosa Dwiatmaja
 ```
 
- - [Contextual Inquiry and Analysis](README.md#a-contextual-inquiry-and-analysis)
- - [Sketching & Prototyping](Sketching-and-prototyping.md#sketching-and-prototyping)
+ - [Previous: Contextual Inquiry and Analysis](Contextual-inquiry-and-analysis.md)
  
 # Sketching and Prototyping
 
