@@ -7,5 +7,5 @@
 ```
 
  - [Contextual Inquiry and Analysis](Contextual-inquiry-and-analysis.md)
- - [Sketching & Prototyping](Sketching-and-prototyping.md)
+ - [Sketching and Prototyping](Sketching-and-prototyping.md)
  - [Usability Evaluation and Prototyping](Usability-evaluation-and-prototyping.md)
