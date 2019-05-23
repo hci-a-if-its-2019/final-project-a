@@ -92,3 +92,7 @@
 
 ### Design Rationale
 This usability evaluation helps the designer gather lacks and flaws of the design that can only be found from whole different prespective. Having a decent IT background making the designer blinded from ample ways of improvements. So by asking novice users to try to use the design, the designer may found flaws that seemed okay for advanced users but is a no-go for novice users. And so, the design has some improvement thanks to this usability evaluation.
+
+### Prototype
+
+[Prototype](/prototype/)
