@@ -1,0 +1,130 @@
+.top-of-image{
+    position: relative;
+}
+
+.top-of-image{
+    background: url('home.jpg');
+    background-size: cover;
+    height: 420px;
+}
+
+.nav-item{
+    font-size: 15px;
+}
+
+.upper-image{
+    border: 7px solid white;
+    box-shadow: 0 0 0 2pt rgb(190, 190, 190);
+}
+
+.upper-image#gubernur{
+    position: absolute;
+    top: 150px;
+    bottom: 462px;    
+    left: 74px;
+}
+
+.upper-image#wakil-gubernur{
+    position: absolute;
+    top: 150px;    
+    bottom: 462px;
+    right: 74px;
+}
+
+.client a img{
+    border: 2px solid white;
+    box-shadow: 0 0 0 2pt rgb(190, 190, 190);
+    margin: 0 10px 0
+}
+
+.card .captionnya {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #2196f3c9;
+    color: #fff;
+    padding: 10px 16px;
+}
+
+p.capt-desc {
+    margin-bottom: 0;
+}
+
+p.capt-desc-2 {
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.section {
+    margin-bottom:30px;
+}
+
+footer.footernya {
+    padding:0px 0;
+}
+
+.card-lain-img {
+    position: relative;
+}
+
+.card-lain-capt {
+    position: absolute;
+    bottom: 0;
+    background: #000000a8;
+    color: #fff;
+    width: 100%;
+    padding: 10px 15px;
+}
+
+.card-lain-ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.card-lain-ul li{
+
+}
+
+.card-lain-ul li a{
+    display: block;
+    padding: 10px 20px;
+}
+
+/* Style the list */
+ul.breadcrumb {
+  margin-top: 20px;
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #eee;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+
+span.capt-tgl {
+    font-size: 11px;
+}
