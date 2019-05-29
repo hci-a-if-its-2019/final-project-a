@@ -12,17 +12,12 @@
 
 ### 1. Brief Description of Participants
 
-#### a. Description of Participant 1
+#### a. Description of the Participant 
  - 21 years old male
  - ITS Student
  - Frequent internet user
  - Have ever using a government website 
 
-#### b. Description of Participant 2
- - Gender: Male
- - Age: about 20's
- - Occupation: College student
- - Reason: He used online shopping platform often
  
 ### 2. Evaluation Script
 #### The instructions used will use some of the previous interview (context inquiry) instruction, some of those are:
@@ -32,25 +27,7 @@
  4. Look for cargo information detail!
  
 ### 3. Transcript
-#### a. Transcript with Participant 1
-(I: Interviewer, P: participant)
-```
-1. I: oke, jadi ini lanjutan yg kemaren, cepat saja ya
-2. I: buka halaman berita
-3. P: oke, udah
-4. I: buka yang kategori "pembangunan daerah"
-5. P: hm, ini ya. udah.
-6. I: oke, sekarang buka berita khusus bulan januari 2019
-7. P: ini kan? udah
-8. I: kemudian, buka informasi kargo seperti kemaren
-9. P: ini gabisa scroll? kemaren kan dibawah.
-10. P: oh ini ya yang biro. tapi kok gabisa diklik?
-11. I: iya masih kurang. gmn menurutmu?
-12. P: yang cari kargo ini masih sulit kayak kemaren sih. coba tetep dibawah gitu, tp jangan disembunyiin yg kayak kemaren gitu.
-13. I: Ooh oke oke, terimakasih ya.
-```
-
-#### b. Transcript with Participant 2
+#### a. Transcript with the Participant 
 (I: Interviewer, P: participant)
 ```
 1. I: oke, jadi ini lanjutan yg kemaren, cepat saja ya
